@@ -1,4 +1,5 @@
 import axios from "axios"
+import './style.css'
 import { useEffect, useState } from "react"
 
 const CAT_ENDPOINT_RANDOM_FACT ="https://catfact.ninja/fact"
